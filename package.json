@@ -1,5 +1,6 @@
 {
   "name": "bookservice",
+  "license": "MIT",
   "scripts": {
     "build": "yarn",
     "start": "yarn start"
