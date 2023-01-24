@@ -1,0 +1,7 @@
+{
+  "name": "bookservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "yarn start"
+  }
+}
